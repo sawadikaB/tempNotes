@@ -8,7 +8,7 @@ for record something
 2. 使用gevent,在io等待时候继续获取url并交给goose抓取<br />
 3. 工厂模式，可横向扩展<br />
 
-do()
+do()<br />
 step 1. 封装goose 提供获取url的接口 [goose](https://github.com/grangier/python-goose)<br />
 step 2. <br />
 
